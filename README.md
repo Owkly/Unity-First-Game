@@ -13,7 +13,7 @@ To start playing the game, you have two options:
 
 2. **Launching the Game:**
    - Navigate to the "build" directory.
-   - Run the executable file (`.exe`) to start playing the game.
+   - Run the executable file (`.exe`) to start playing the game. Please note that the executable is compatible only with Windows operating systems.
 
 ## Contributors
 
